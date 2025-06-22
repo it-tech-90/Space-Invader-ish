@@ -1,4 +1,4 @@
-<h1>👾 :video_game: Space Invader-ish (kinda)</h1>
+<h1>👾 Space Invader-ish (kinda) :video_game:</h1>
 <p>This project was developed as a creative programming challenge to work with basic 2D shooting structures. It features a player-controlled spaceship, waves of enemies, health points, and a simple scoring system - all wrapped in a retro-inspired action.</p>
 
 <h1>🧱 Features</h1>
