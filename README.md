@@ -1,13 +1,27 @@
-<h1>Space Invader-ish (kinda)</h1>
-<h2>In Python</h2>
-<p>My very first game I created with models to work with in Python. This game contains:</p>
+<h1>👾 Space Invader-ish (kinda)</h1>
+<h2>:video_game: Summary</h2>
+<p>This project was developed as a creative programming challenge to work with basic 2D shooting structures. It features a player-controlled spaceship, waves of enemies, health points, and a simple scoring system - all wrapped in a retro-inspired action.</p>
 
+<h1>🧱 Features</h1>
 <ul>
-  <li>A score tracker</li>
-  <li>A health bar</li>
-  <li>Bullet/enemy collision detection</li>
-  <li>Enemy/player collision detection</li>
-  <li>Game Over screen with input checks</li>
+  <li>Enemy wave generation and movement</li>
+  <li>Player-controlled spaceship with movement and shooting</li>
+  <li>Player HP system with on-screen health bar</li>
+  <li>Bullet mechanics with firing and collision detection</li>
+  <li>Scoring system that tracks defeated enemies</li>
+  <li>Custom graphics & animation via Pygame</li>
+  <li>Game loop with frame rate control for smooth play</li>
 </ul>
 
-<p>I might decide to add more to this later on, but it is functional now</p>
+<h1>:wrench: Technologies</h1>
+<ul>
+<li>Python 3</li>
+<li>Pygame library</li>
+</ul>
+
+<h1>:bulb: Future Ideas</h1>
+<ul>
+<li>Add enemy projectiles</li>
+<li>Introduce levels and increasing difficulty</li>
+<li>Implement additional menu options</li>
+<li>Add sound effects and/or music</li>
